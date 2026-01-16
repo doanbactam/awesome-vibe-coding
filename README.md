@@ -1,1 +1,1 @@
-# awesome-vibe-coding
+Awesome Vibe Coding

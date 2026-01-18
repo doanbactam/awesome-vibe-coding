@@ -22,6 +22,7 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 * [Replit](https://replit.com/) - Collaborative cloud IDE with integrated AI agents for building and deploying software. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [Google AI Studio](https://aistudio.google.com/) - Web-based prototyping environment for experimenting with Gemini models. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Base44](https://base44.com/) - AI-powered platform to build full-stack apps and websites using natural language. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
+* [Zencoder](https://zencoder.ai/) - Universal AI development platform unifying CLI and IDE tools, supporting multiple AI models with powerful multi-file coding agents and CI/CD integration. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 
 ## IDEs and Code Editors
 
@@ -45,6 +46,8 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 * [Continue](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains to build custom AI coding workflows. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Codeium](https://codeium.com/) - Free AI-powered coding assistant with autocomplete, chat, and code generation across VS Code, JetBrains, and other popular IDEs. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your codebase to provide context-aware suggestions across multiple IDEs and languages. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
+* [Qodo](https://www.qodo.ai/) - AI-powered code review platform (formerly CodiumAI) that provides deep code analysis, test generation, and quality enforcement across IDE, PR, and CI/CD workflows. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
+* [Bugbot](https://cursor.com/bugbot) - AI-powered bug and security detection tool that automatically identifies issues in code changes, integrated with GitHub for automated quality checks. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [GitHub Copilot](https://github.com/features/copilot) - The industry-standard AI pair programmer offering intelligent code completion, chat, and agency. ![Price: Paid](https://img.shields.io/badge/Price-Paid-red?style=flat-square)
 
 ## Local Apps

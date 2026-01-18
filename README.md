@@ -43,6 +43,8 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 * [Amp](https://ampcode.com/) - AI-native editor and terminal agent; also available as a CLI tool. ![Price: Paid](https://img.shields.io/badge/Price-Paid-red?style=flat-square)
 * [Augment Code](https://www.augmentcode.com/) - Enterprise-grade AI coding assistant optimized for large codebases and team collaboration. ![Price: Paid](https://img.shields.io/badge/Price-Paid-red?style=flat-square)
 * [Continue](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains to build custom AI coding workflows. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
+* [Codeium](https://codeium.com/) - Free AI-powered coding assistant with autocomplete, chat, and code generation across VS Code, JetBrains, and other popular IDEs. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
+* [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your codebase to provide context-aware suggestions across multiple IDEs and languages. ![Price: Freemium](https://img.shields.io/badge/Price-Freemium-orange?style=flat-square)
 * [GitHub Copilot](https://github.com/features/copilot) - The industry-standard AI pair programmer offering intelligent code completion, chat, and agency. ![Price: Paid](https://img.shields.io/badge/Price-Paid-red?style=flat-square)
 
 ## Local Apps

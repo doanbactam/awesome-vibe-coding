@@ -72,7 +72,6 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 
 ## Documentation for AI Coding
 
-* [CodeGuide](https://www.codeguide.dev/) - AI-powered tool for generating comprehensive and accurate project documentation. 
 * [AGENTS.md](https://agents.md/) - Standardized open format for providing context and instructions to coding agents. 
 * [Agent Skills](https://agentskills.io/) - A directory of reusable skills and capabilities to equip AI agents with specialized expertise. 
 

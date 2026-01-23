@@ -38,6 +38,7 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 
 ## Plugins and Extensions
 
+* [Amp](https://ampcode.com/) - Amp is the frontier coding agent that lets you wield the full power of leading models. Pay as you go, no markup for individuals ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Cline](https://cline.bot/) - Autonomous coding agent for VS Code capable of executing executing terminal commands and file edits. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Roo Code](https://github.com/RooVetGit/Roo-Code) - Community-driven fork of Cline featuring enhanced capabilities and customization options. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
 * [Kilo Code](https://kilo.ai/) - Open-source AI coding agent extension compatible with both VS Code and JetBrains IDEs. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)

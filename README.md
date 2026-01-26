@@ -1,4 +1,5 @@
 # Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Featured on AGNXI](https://agnxi.com/badge.svg)](https://agnxi.com)
 
 A curated collection of tools for **Vibe Coding**—the art of building software at the speed of thought using natural language and AI.
 

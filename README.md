@@ -76,7 +76,8 @@ A curated collection of tools for **Vibe Coding**—the art of building software
 
 * [AGENTS.md](https://agents.md/) - Standardized open format for providing context and instructions to coding agents. 
 * [Agent Skills](https://agentskills.io/) - A directory of reusable skills and capabilities to equip AI agents with specialized expertise. 
-* [skills.sh](https://skills.sh/) - A registry and package manager for AI agent skills, facilitating easy installation of reusable capabilities. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square) 
+* [skills.sh](https://skills.sh/) - A registry and package manager for AI agent skills, facilitating easy installation of reusable capabilities. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square)
+* [Agnxi.com](https://agnxi.com/) - Find agent skills for Claude Code, Cursor, Windsurf and other AI coding tools. Search by category, author, or keyword. ![Price: Free](https://img.shields.io/badge/Price-Free-green?style=flat-square) 
 
 ## Contribute
 
